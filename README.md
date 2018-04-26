@@ -22,7 +22,7 @@
 2. Unityで新規プロジェクトを作成し、公式のVRCSDKと1でダウンロードしたものをインポートする。
 3. ChangeableSkyboxSystemフォルダ内のChageableSkybox.matで切り替えたい2種類のTextureたちを設定する。
 4. UnityのメニューバーからWindow > Lighting > Settingを選択し、EnvironmentのSkybox MaterialにChangeableSkybox.matを設定する。
-5. ChangeableSkyboxSystemフォルダ内のSkyboxSystemプレハブをHierarchyにドラッグ&ドロップ(D&D)する。  このオブジェクト自体はワールドのいい感じの場所に隠しておいてください。
+5. ChangeableSkyboxSystemフォルダ内のSkyboxSystemプレハブをHierarchyにドラッグ&ドロップ(D&D)する。このオブジェクト自体はワールドのいい感じの場所に隠しておいてください。
 
 ## 使用方法
 任意のオブジェクトのVRC_TriggerからActivateCustomTriggerを実行してください。  
